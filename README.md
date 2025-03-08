@@ -41,9 +41,6 @@
   <a href="https://www.instagram.com/vitorhg_25/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="reyes.fires_vh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=reyes.fires_vh&logo=discord&label=&color=7289DA&logoColor=white&labelColor=7289DB&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="vitor.hugoja25@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=vitor.hugoja25@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
