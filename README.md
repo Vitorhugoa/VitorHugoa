@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, com o objetivo de me especializar em Desenvolvimento Front-end. Estou entusiasmado em adquirir novas habilidades e contribuir para projetos inovadores na área.</p>
+<p align="left">Atualmente, estou cursando Sistema da Informação - FMU , com o objetivo de me especializar em Desenvolvimento Front-end. Estou entusiasmado em adquirir novas habilidades e contribuir para projetos inovadores na área.</p>
 
 ###
 
